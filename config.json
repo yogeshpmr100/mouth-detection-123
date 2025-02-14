@@ -1,0 +1,8 @@
+{
+    "user_name": "Your Name",
+    "weather_api_key": "",
+    "music_dir": "path/to/your/music/folder",
+    "language": "en",
+    "scroll_amount": 500,
+    "volume_step": 0.1
+}

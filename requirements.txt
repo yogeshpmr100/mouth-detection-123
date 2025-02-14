@@ -1,0 +1,1 @@
+pip install SpeechRecognition pyttsx3 pyautogui opencv-python mediapipe numpy Pillow psutil screen_brightness_control
